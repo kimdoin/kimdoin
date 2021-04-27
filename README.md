@@ -1,11 +1,5 @@
-Hello, I'm DoIn.
-
-
-- 👋 Hi, I’m @kimdoin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello, I'm DoIn, iOS Develpoer.
+- 📗 I’m currently learning ... Swift, SwiftUI, RxSwift etc.
 
 <!---
 kimdoin/kimdoin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
