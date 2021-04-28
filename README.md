@@ -7,9 +7,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Joyful Joy 🥳
-
-Hello, I'm Juhee (Joy).
-My goal is to give good influence to society.
-Have a day full of JOY today.
 
